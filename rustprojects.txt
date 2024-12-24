@@ -1,1 +1,1 @@
-zellij watchexec-cli cargo-watch igrep sim repgrep eza felix lsd broot diskus csvlens hx bottom jaq bats ripgrep exa fd-find procs sd du-dust tokei bottom ytop bandwhich git-delta git-absorb jless jql qsv teehee
+zellij watchexec-cli cargo-watch igrep repgrep eza felix lsd broot diskus csvlens hx bottom jaq bats ripgrep exa fd-find procs sd du-dust tokei bottom ytop bandwhich git-delta git-absorb jless jql qsv teehee
